@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file.txt keiciu testing astsakoj
+=======
+keiciu file 
+2021 11 16 20 43
+>>>>>>> 358bf6576e3686168d70e71d07140b0159649d48
